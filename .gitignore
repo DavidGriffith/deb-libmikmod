@@ -1,0 +1,7 @@
+tmp
+*substvars
+autoreconf*
+*\.log
+libmikmod2-dev
+libmikmod2
+files
